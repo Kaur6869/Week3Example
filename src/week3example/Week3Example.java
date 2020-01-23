@@ -9,6 +9,7 @@ public class Week3Example {
     
         System.out.println("This is week 3");
          System.out.println("This is week 3 Fetch + Merge");
+         System.out.println("This is practice time");
     }
     
     
